@@ -1,0 +1,20 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 100px;
+}
+.form-search {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+.clear {
+  margin: 10px 0px;
+  color: #2d16af;
+  cursor: pointer;
+}
+
+.clear:hover {
+  color: #0e005f;
+}

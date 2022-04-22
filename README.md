@@ -1,3 +1,64 @@
+# Aplikasi spotifay
+
+Disini kalian bisa masuk menggunakan akun spotify yang telah anda buat . dan anda akan bisa memilih lagu yang kalian sukai . selain itu anda juga dapat membuat playlist.
+
+## Fitur aplikasi.
+
+1. kalian dapat mencari lagu ynag kalian sukai
+2. dapat membuat playlist
+
+## Technical Requirements
+
+- Flex & Grid ✅
+
+  menggunakan bootstrap
+
+- Typescript ✅
+
+  CRA dengan typescript
+
+- Redux ✅
+
+  menggunakan redux
+
+- Eslint ✅
+
+  menginstal eslint
+
+- Testing ✅
+
+  testing pada track component
+
+## cara instal
+
+1. Clone project
+
+   git clone https://github.com/samudrajovanka/spotify-app.git
+
+2. masuk ke project folder
+
+   cd spotify-app
+
+3. Install dependencies
+
+   npm install
+
+4. buat environment variables
+
+   Create file with name `.env.local` and add the following content:
+
+   REACT_APP_SPOTIFY_CLIENT_ID = <your spotify client id>
+
+5. jalankan aplikasi
+
+   npm start
+
+6. Open <http://localhost:3000> with your browser to see the result.
+
+## kekurangan Aplikasi
+
+1. buat playlist masih blm sempurna
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
